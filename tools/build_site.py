@@ -13,7 +13,7 @@ HERE = Path(__file__).resolve().parents[1]
 parser = argparse.ArgumentParser()
 parser.add_argument("--archive", type=Path, default=Path(r"D:\Kadambavanam"))
 parser.add_argument("--audit", type=Path, default=Path(r"D:\Kadambavanam_Analysis"))
-parser.add_argument("--plan", type=Path, default=Path(r"C:\Users\91866\AppData\Local\Temp\codex-clipboard-6ace6ce5-01c4-4d6e-b99d-fc12a12be18c.png"))
+parser.add_argument("--plan", type=Path, required=True)
 args = parser.parse_args()
 catalogue = json.loads((args.audit / "data/catalogue.json").read_text())
 cat = {r["id"]: r for r in catalogue}
@@ -170,7 +170,7 @@ def page_asset(number):
 
 
 plan = Image.open(args.plan).convert("RGB")
-plan.save(HERE / "assets/plans/supplied-site-plan.png")
+shutil.copy2(args.plan, HERE / "assets/plans/supplied-site-plan.png")
 PLAN_WIDTH, PLAN_HEIGHT = plan.size
 assert (PLAN_WIDTH, PLAN_HEIGHT) == (777, 553), f"Unexpected attached-plan size: {plan.size}"
 
