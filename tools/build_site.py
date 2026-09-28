@@ -31,6 +31,7 @@ def ids(spec):
 
 
 PHOTO_SETS = {
+    "E01": ids("809 1450-1451 1453 1482 1496-1498 1503 1520-1521 1523"),
     "B01": ids("281 283-295 298-299 301-305 312-316 321-323 329 333-341 344-348 351-355 368-372 375-377 380-381 396-402 406-407 1855 1857"),
     "B02": ids("317-320 326-328 331-332 385-390 395"),
     "B03": set(),
@@ -59,6 +60,7 @@ for row in catalogue:
 
 # Exact-byte duplicates elsewhere in the archive are retained as provenance aliases.
 STATUS = {
+    "E01": ("existing", "Existing in archive", "F0809 and F1503 show completed ground-plus-first-floor cottages with white walls, brick panels and red tiled gable roofs. These are photographic design references; present-day condition and the exact named DWG match remain unverified."),
     "B01": ("existing", "Existing in archive", "2024 brochure p.18 and auditorium photographs document the facility. Present-day condition has not been surveyed."),
     "B02": ("existing", "Existing in archive", "2024 brochure p.18 and dining-pavilion photographs document the facility. Kitchen dimensions and present-day condition remain unverified."),
     "B03": ("existing", "Existing in archive", "2024 brochure p.18 and temple photographs document the shrine complex. Individual shrine variants remain to be reconciled."),
@@ -74,6 +76,7 @@ STATUS = {
     "P02": ("future", "Future / proposed", "Explicitly labelled Proposed Crafts Bazaar & Museum in the supplied plan (item 5). No completion evidence has been matched."),
 }
 LOCATIONS = {
+    "E01": ([494, 169, 714, 443], "11 / zone", "Shared cottage zone only. The exact footprint of the photographed G+1 block has not been identified on this concept plan."),
     "B01": ([297, 282, 394, 347], "3", "Auditorium footprint on the supplied concept plan."),
     "B02": ([229, 234, 303, 297], "2", "Kitchen and dining pavilion complex on the supplied concept plan."),
     "B03": ([231, 402, 282, 499], "6", "Temple row along the southwest boundary."),
@@ -88,7 +91,7 @@ LOCATIONS = {
     "P01": ([210, 300, 277, 351], "1", "Proposed craft-production sheds near the western entrance."),
     "P02": ([327, 209, 389, 253], "5", "Proposed crafts bazaar/museum near the washrooms."),
 }
-BROCHURE_PAGES = {"B01": [18], "B02": [18], "B03": [18], "B06": [14, 15, 16],
+BROCHURE_PAGES = {"E01": [13], "B01": [18], "B02": [18], "B03": [18], "B06": [14, 15, 16],
                   "B07": [31], "B09": [13], "B10": [13], "B11": [13]}
 DWGS = {"B07": {"F1900": "CAD02", "F1901": "CAD03", "F1902": "CAD04"},
         "B09": {"F2021": "CAD09", "F2022": "CAD10", "F2023": "CAD11"},
@@ -198,7 +201,19 @@ document("F1906", "CAD06")
 photo("F1908")
 photo("F1909")
 buildings = []
-for t in register["types"]:
+existing_cottage = {
+    "id": "E01", "name": "Existing Cottage - G+1", "scope": "Existing photo reference",
+    "counting_rule": "Priority 1: block out the photographed two-storey cottage form, including its tiled gable roof, verandah and external stair. This photo-reference variant is not counted as an additional independent architectural family until reconciled with the cottage drawings.",
+    "limitation": "No dedicated DWG has been conclusively matched to this photographed design. Premium, Pool-view and Circular cottage drawings remain separate candidate design sets. Photographs show similar forms, not a verified single building instance or surveyed dimensions.",
+    "evidence": [
+        {"source_id": "F0809", "locator": "IMG_5188ab.jpg: completed G+1 exterior, verandah and external stair"},
+        {"source_id": "F1503", "locator": "IMG_7259a.jpg: completed G+1 cottage gable/side view"},
+        {"source_id": "F1903", "locator": "September 2024 brochure p.13: cottage operation/construction totals, not a breakdown by design subtype"},
+    ],
+}
+cottage_ids = ("E01", "B09", "B10", "B11")
+types = [*register["types"], existing_cottage]
+for t in types:
     bid = t["id"]
     refs = []
     seen = set()
@@ -213,7 +228,10 @@ for t in register["types"]:
         if fid not in cat or not cat[fid].get("preview"):
             continue
         relation = "candidate" if bid in ("B05", "B07") else "matched"
-        add(photo(fid), relation, "Entry / equipment context; exact building match is unverified." if relation == "candidate" else "Architectural reference identified in the themed archive and contact-sheet review.")
+        note = "Entry / equipment context; exact building match is unverified." if relation == "candidate" else "Architectural reference identified in the themed archive and contact-sheet review."
+        if bid == "E01":
+            note = "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
+        add(photo(fid), relation, note)
     if bid in ("B09", "B10", "B11"):
         for fid in sorted(COTTAGES):
             add(photo(fid), "shared", "Existing cottage reference. Not conclusively matched to this named design family.")
@@ -242,17 +260,24 @@ for t in register["types"]:
     box, number, location_note = LOCATIONS[bid]
     loc = make_crop(bid, box)
     loc.update({"item": number, "note": location_note,
-                "certainty": "Context / provisional" if bid in ("B08", "B09", "B10", "B11") else "Named on concept plan"})
-    cover = {"B01": "F0312", "B02": "F0395", "B03": "F1442", "B04": "F0393", "B05": "F0404",
+                "certainty": "Context / provisional" if bid in ("E01", "B08", "B09", "B10", "B11") else "Named on concept plan",
+                "showMarker": bid != "E01"})
+    cover = {"E01": "F0809", "B01": "F0312", "B02": "F0395", "B03": "F1442", "B04": "F0393", "B05": "F0404",
              "B06": "F1112", "B07": "F1901", "B08": "F1908", "B09": "B09-cad-detail",
              "B10": "F1913", "B11": "B11-cad-detail", "P01": "F1907", "P02": "F1907"}[bid]
     buildings.append({"id": bid, "name": t["name"], "scope": t["scope"],
+                      "priority": "cottages" if bid in cottage_ids else "future" if t["scope"] == "Proposed" else "campus",
+                      "drawingMatch": "Dedicated drawing match not yet verified." if bid == "E01" else None,
+                      "drawingCandidates": ["B09", "B10", "B11"] if bid == "E01" else [],
                       "area": "Cultural centre" if bid in ("B01", "B02", "B03", "B04", "B05", "P01", "P02") else "Ethnic resort",
                       "status": status, "statusLabel": status_label, "statusNote": status_note,
                       "statusCurrentVerified": False, "location": loc, "refs": refs,
                       "cover": cover, "countingRule": t["counting_rule"], "limitation": t["limitation"],
                       "evidence": t["evidence"]})
     print(bid, len(refs), flush=True)
+
+buildings.sort(key=lambda b: ({"cottages": 0, "campus": 1, "future": 2}[b["priority"]],
+                             cottage_ids.index(b["id"]) if b["id"] in cottage_ids else 0))
 
 for key, source in sources.items():
     source["includedOriginal"] = bool(assets.get(key, {}).get("kind") in ("dwg", "document"))
@@ -262,6 +287,8 @@ data = {"version": 2, "updated": "2026-09-28", "title": "Kadambavanam",
         "plan": {"path": "assets/plans/supplied-site-plan.png", "width": PLAN_WIDTH, "height": PLAN_HEIGHT,
                  "sha256": hashlib.sha256(args.plan.read_bytes()).hexdigest(), "source": "User-supplied layout screenshot, 28 September 2026"},
         "coverage": {"archiveFiles": len(catalogue), "publishedSourceFiles": len(sources),
+                     "documentedFamilies": len(register["types"]), "existingPhotoVariants": 1,
+                     "referenceEntries": len(buildings),
                      "webPhotos": sum(a["kind"] == "photo" for a in assets.values()),
                      "originalDWGs": sum(a["kind"] == "dwg" for a in assets.values()),
                      "originalPDFs": sum(a["kind"] == "document" and not a.get("page") for a in assets.values()),
@@ -269,6 +296,7 @@ data = {"version": 2, "updated": "2026-09-28", "title": "Kadambavanam",
                      "notes": ["All 11 DWGs and both PDFs are included. Building photos are published as medium-quality 1400-pixel web derivatives; originals remain in the local archive.",
                                "Building and related-detail photographs were expanded from themed folders and visual contact-sheet review. Unrelated food, event and promotional material is not published.",
                                "Shared cottage photographs are deliberately associated with all three cottage families without asserting a subtype match. This creates shared references, not additional source files.",
+                               "Cottages are modelling priority 1. E01 makes the existing G+1 photographic design accessible separately, without adding a verified family or asserting a DWG match. Future proposals are secondary and listed last.",
                                "The Pool view Units construction folder also contains circular units. Folder membership alone does not prove a Pool-view-unit match.",
                                "The Aleenta / Phuket inspiration folder is not evidence of Kadambavanam and is excluded from the public building galleries.",
                                "The source screenshot is only 777 x 553 pixels. Location crops do not add detail or establish survey-accurate footprints.",

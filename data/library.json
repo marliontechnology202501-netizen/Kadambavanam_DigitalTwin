@@ -4,1919 +4,101 @@
   "title": "Kadambavanam",
   "buildings": [
     {
-      "id": "B01",
-      "name": "Auditorium",
-      "scope": "Core",
-      "area": "Cultural centre",
-      "status": "existing",
-      "statusLabel": "Existing in archive",
-      "statusNote": "2024 brochure p.18 and auditorium photographs document the facility. Present-day condition has not been surveyed.",
-      "statusCurrentVerified": false,
-      "location": {
-        "crop": "assets/crops/B01.png",
-        "overview": "assets/crops/B01-overview.png",
-        "box": [
-          297,
-          282,
-          394,
-          347
-        ],
-        "cropBox": [
-          259,
-          257,
-          431,
-          372
-        ],
-        "item": "3",
-        "note": "Auditorium footprint on the supplied concept plan.",
-        "certainty": "Named on concept plan"
-      },
-      "refs": [
-        {
-          "asset": "F0281",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0283",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0284",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0285",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0286",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0287",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0288",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0289",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0290",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0291",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0292",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0293",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0294",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0295",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0298",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0299",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0301",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0302",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0303",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0304",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0305",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0312",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0313",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0314",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0315",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0316",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0321",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0322",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0323",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0329",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0333",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0334",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0335",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0336",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0337",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0338",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0339",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0340",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0341",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0344",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0345",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0346",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0347",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0348",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0351",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0352",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0353",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0354",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0355",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0368",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0369",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0370",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0371",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0372",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0375",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0376",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0377",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0380",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0381",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0396",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0397",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0398",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0399",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0400",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0401",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0402",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0406",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0407",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1855",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1857",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1907",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1908",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1909",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1904",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1906",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1903-p18",
-          "relation": "document",
-          "note": "Historical brochure evidence; not a current site survey."
-        }
+      "id": "E01",
+      "name": "Existing Cottage - G+1",
+      "scope": "Existing photo reference",
+      "priority": "cottages",
+      "drawingMatch": "Dedicated drawing match not yet verified.",
+      "drawingCandidates": [
+        "B09",
+        "B10",
+        "B11"
       ],
-      "cover": "F0312",
-      "countingRule": "One auditorium family, including foyer/stage/supporting volumes. Repeated roof trusses and seating are components, not additional building types.",
-      "limitation": "Photograph establishes the auditorium's physical form at an archive date; present-day condition is not verified.",
-      "evidence": [
-        {
-          "source_id": "F1908",
-          "locator": "JPEG layout item 1"
-        },
-        {
-          "source_id": "F1907",
-          "locator": "PDF layout item 3"
-        },
-        {
-          "source_id": "F0312",
-          "locator": "Auditorium interior photograph"
-        }
-      ]
-    },
-    {
-      "id": "B02",
-      "name": "Kitchen and dining pavilion",
-      "scope": "Core",
-      "area": "Cultural centre",
-      "status": "existing",
-      "statusLabel": "Existing in archive",
-      "statusNote": "2024 brochure p.18 and dining-pavilion photographs document the facility. Kitchen dimensions and present-day condition remain unverified.",
-      "statusCurrentVerified": false,
-      "location": {
-        "crop": "assets/crops/B02.png",
-        "overview": "assets/crops/B02-overview.png",
-        "box": [
-          229,
-          234,
-          303,
-          297
-        ],
-        "cropBox": [
-          181,
-          209,
-          350,
-          322
-        ],
-        "item": "2",
-        "note": "Kitchen and dining pavilion complex on the supplied concept plan.",
-        "certainty": "Named on concept plan"
-      },
-      "refs": [
-        {
-          "asset": "F0317",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0318",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0319",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0320",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0326",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0327",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0328",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0331",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0332",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0385",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0386",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0387",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0388",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0389",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0390",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0395",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1907",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1908",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1909",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1904",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1906",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1903-p18",
-          "relation": "document",
-          "note": "Historical brochure evidence; not a current site survey."
-        }
-      ],
-      "cover": "F0395",
-      "countingRule": "One complex-level family, with repeated open dining bays and a kitchen/service portion. The kitchen may require a separate mesh within the same family.",
-      "limitation": "Historical photographs support open-sided thatched dining pavilions. Exact bay variants and kitchen dimensions still need confirmation.",
-      "evidence": [
-        {
-          "source_id": "F1907",
-          "locator": "PDF layout item 2: Kitchen & Dining Pavilion"
-        },
-        {
-          "source_id": "F1908",
-          "locator": "JPEG layout item 3"
-        },
-        {
-          "source_id": "F0395",
-          "locator": "Dining-pavilion photograph"
-        }
-      ]
-    },
-    {
-      "id": "B03",
-      "name": "Temple and shrine complex",
-      "scope": "Core",
-      "area": "Cultural centre",
-      "status": "existing",
-      "statusLabel": "Existing in archive",
-      "statusNote": "2024 brochure p.18 and temple photographs document the shrine complex. Individual shrine variants remain to be reconciled.",
-      "statusCurrentVerified": false,
-      "location": {
-        "crop": "assets/crops/B03.png",
-        "overview": "assets/crops/B03-overview.png",
-        "box": [
-          231,
-          402,
-          282,
-          499
-        ],
-        "cropBox": [
-          146,
-          377,
-          366,
-          524
-        ],
-        "item": "6",
-        "note": "Temple row along the southwest boundary.",
-        "certainty": "Named on concept plan"
-      },
-      "refs": [
-        {
-          "asset": "F1377",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1378",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1379",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1380",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1381",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1382",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1383",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1384",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1385",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1386",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1387",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1388",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1389",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1390",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1391",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1392",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1393",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1394",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1395",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1396",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1397",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1398",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1399",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1400",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1401",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1402",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1403",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1404",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1405",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1406",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1407",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1408",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1409",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1410",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1411",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1412",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1413",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1414",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1415",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1416",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1417",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1418",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1419",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1420",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1421",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1422",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1423",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1424",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1425",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1426",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1427",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1428",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1429",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1430",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1431",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1432",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1433",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1434",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1435",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1436",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1437",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1438",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1439",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1440",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1441",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1442",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1443",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1444",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1445",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1446",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1447",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1907",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1908",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1909",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1904",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1906",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1903-p18",
-          "relation": "document",
-          "note": "Historical brochure evidence; not a current site survey."
-        }
-      ],
-      "cover": "F1442",
-      "countingRule": "One repeatable shrine/pavilion kit for planning. Shrine decoration and size variants may increase the final mesh count.",
-      "limitation": "The archive shows multiple roofed shrines. Their repetition is not a count of different building families.",
-      "evidence": [
-        {
-          "source_id": "F1908",
-          "locator": "JPEG layout item 4"
-        },
-        {
-          "source_id": "F1907",
-          "locator": "PDF layout item 6"
-        },
-        {
-          "source_id": "F1442",
-          "locator": "Temple-row photograph"
-        }
-      ]
-    },
-    {
-      "id": "B04",
-      "name": "Public washrooms",
-      "scope": "Core",
-      "area": "Cultural centre",
-      "status": "existing",
-      "statusLabel": "Existing in archive",
-      "statusNote": "F0391-F0394 show campus sanitary-building exteriors and washroom interiors. Exact correspondence of each photographed block to the plan remains to be checked.",
-      "statusCurrentVerified": false,
-      "location": {
-        "crop": "assets/crops/B04.png",
-        "overview": "assets/crops/B04-overview.png",
-        "box": [
-          315,
-          202,
-          349,
-          245
-        ],
-        "cropBox": [
-          257,
-          173,
-          407,
-          273
-        ],
-        "item": "4",
-        "note": "Washroom zone; repeated blocks may require separate variants.",
-        "certainty": "Named on concept plan"
-      },
-      "refs": [
-        {
-          "asset": "F0391",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0392",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0393",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0394",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1907",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1908",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1909",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1904",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1906",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        }
-      ],
-      "cover": "F0393",
-      "countingRule": "One sanitary-building family initially; verify whether the two plan blocks share the same design before reusing a mesh.",
-      "limitation": "Named in both campus layout versions. No dedicated washroom drawing set was identified among the 11 architectural DWGs.",
-      "evidence": [
-        {
-          "source_id": "F1908",
-          "locator": "JPEG layout item 2"
-        },
-        {
-          "source_id": "F1907",
-          "locator": "PDF layout item 4"
-        },
-        {
-          "source_id": "F1904",
-          "locator": "CAD05 placement context"
-        }
-      ]
-    },
-    {
-      "id": "B05",
-      "name": "Ticket kiosk / entry reception",
-      "scope": "Core",
-      "area": "Cultural centre",
-      "status": "unverified",
-      "statusLabel": "Status unverified",
-      "statusNote": "The plan names a ticket kiosk. Entry and booth photographs are candidates, not a proven match to that specific kiosk.",
-      "statusCurrentVerified": false,
-      "location": {
-        "crop": "assets/crops/B05.png",
-        "overview": "assets/crops/B05-overview.png",
-        "box": [
-          418,
-          389,
-          460,
-          426
-        ],
-        "cropBox": [
-          364,
-          357,
-          514,
-          457
-        ],
-        "item": "8",
-        "note": "Ticket-kiosk location in the supplied concept plan; photograph match pending.",
-        "certainty": "Named on concept plan"
-      },
-      "refs": [
-        {
-          "asset": "F0297",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0324",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0342",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0343",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0349",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0350",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0356",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0357",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0358",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0359",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0360",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0361",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0362",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0363",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0364",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0365",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0366",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0367",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0373",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0374",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0384",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0403",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0404",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F0405",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F1856",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F1907",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1908",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1909",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1904",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1906",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        }
-      ],
-      "cover": "F0404",
-      "countingRule": "One ticket-kiosk family. Do not automatically merge separate gatehouses or security booths into it.",
-      "limitation": "Plan identity is supported. Exact elevation and present-day operation are not verified.",
-      "evidence": [
-        {
-          "source_id": "F1908",
-          "locator": "JPEG layout item 6"
-        },
-        {
-          "source_id": "F1907",
-          "locator": "PDF layout item 8"
-        }
-      ]
-    },
-    {
-      "id": "B06",
-      "name": "Adisil restaurant and conference complex",
-      "scope": "Core",
       "area": "Ethnic resort",
       "status": "existing",
       "statusLabel": "Existing in archive",
-      "statusNote": "Restaurant and banquet-space photographs document completed spaces. The campus plan identifies the restaurant/conference complex.",
+      "statusNote": "F0809 and F1503 show completed ground-plus-first-floor cottages with white walls, brick panels and red tiled gable roofs. These are photographic design references; present-day condition and the exact named DWG match remain unverified.",
       "statusCurrentVerified": false,
       "location": {
-        "crop": "assets/crops/B06.png",
-        "overview": "assets/crops/B06-overview.png",
+        "crop": "assets/crops/E01.png",
+        "overview": "assets/crops/E01-overview.png",
         "box": [
-          668,
-          163,
-          727,
-          262
+          494,
+          169,
+          714,
+          443
         ],
         "cropBox": [
-          553,
-          138,
+          291,
+          144,
           777,
-          287
+          468
         ],
-        "item": "14",
-        "note": "Restaurant and conference complex at the eastern side of the resort.",
-        "certainty": "Named on concept plan"
+        "item": "11 / zone",
+        "note": "Shared cottage zone only. The exact footprint of the photographed G+1 block has not been identified on this concept plan.",
+        "certainty": "Context / provisional",
+        "showMarker": false
       },
       "refs": [
         {
-          "asset": "F0099",
+          "asset": "F0809",
           "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+          "note": "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
         },
         {
-          "asset": "F0100",
+          "asset": "F1450",
           "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+          "note": "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
         },
         {
-          "asset": "F0101",
+          "asset": "F1451",
           "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+          "note": "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
         },
         {
-          "asset": "F0106",
+          "asset": "F1453",
           "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+          "note": "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
         },
         {
-          "asset": "F0107",
+          "asset": "F1482",
           "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+          "note": "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
         },
         {
-          "asset": "F0109",
+          "asset": "F1496",
           "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+          "note": "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
         },
         {
-          "asset": "F0110",
+          "asset": "F1497",
           "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+          "note": "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
         },
         {
-          "asset": "F0111",
+          "asset": "F1498",
           "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+          "note": "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
         },
         {
-          "asset": "F0112",
+          "asset": "F1503",
           "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+          "note": "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
         },
         {
-          "asset": "F0113",
+          "asset": "F1520",
           "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+          "note": "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
         },
         {
-          "asset": "F0114",
+          "asset": "F1521",
           "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+          "note": "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
         },
         {
-          "asset": "F0115",
+          "asset": "F1523",
           "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0116",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0117",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0118",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0119",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0120",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0121",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0122",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0124",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0126",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0127",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0128",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0131",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0136",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0138",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0139",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0140",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0141",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0142",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0145",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0157",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F0158",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1050",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1060",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1062",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1063",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1064",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1065",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1074",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1075",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1077",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1078",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1079",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1081",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1082",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1083",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1084",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1085",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1086",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1087",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1088",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1101",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1102",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1103",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1104",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1107",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1108",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1109",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1110",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1111",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1112",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1113",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1114",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1115",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1116",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1117",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1118",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1119",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1120",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1121",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1122",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1123",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1124",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1125",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1126",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1127",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1128",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1135",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1136",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1137",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1138",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1139",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1140",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1141",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1142",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1143",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1144",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1145",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1146",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1147",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1148",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1149",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1150",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1151",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1152",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1153",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1154",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1160",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1161",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1162",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1163",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1164",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1165",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1167",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1171",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1172",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1173",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1174",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1175",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1860",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1861",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1862",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1863",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1864",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
-        },
-        {
-          "asset": "F1867",
-          "relation": "matched",
-          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+          "note": "Completed G+1 cottage design reference. Exact building instance, named DWG and site footprint are not verified."
         },
         {
           "asset": "F1907",
@@ -1944,386 +126,26 @@
           "note": "Shared site plan. Different revisions use different item numbers."
         },
         {
-          "asset": "F1903-p14",
-          "relation": "document",
-          "note": "Historical brochure evidence; not a current site survey."
-        },
-        {
-          "asset": "F1903-p15",
-          "relation": "document",
-          "note": "Historical brochure evidence; not a current site survey."
-        },
-        {
-          "asset": "F1903-p16",
+          "asset": "F1903-p13",
           "relation": "document",
           "note": "Historical brochure evidence; not a current site survey."
         }
       ],
-      "cover": "F1112",
-      "countingRule": "One architectural complex with multiple hall, terrace and service volumes; not one new family for each whitebox wing.",
-      "limitation": "Restaurant exterior is visible in photos. The association with conference halls comes from the plan, not proof of present-day room use.",
+      "cover": "F0809",
+      "countingRule": "Priority 1: block out the photographed two-storey cottage form, including its tiled gable roof, verandah and external stair. This photo-reference variant is not counted as an additional independent architectural family until reconciled with the cottage drawings.",
+      "limitation": "No dedicated DWG has been conclusively matched to this photographed design. Premium, Pool-view and Circular cottage drawings remain separate candidate design sets. Photographs show similar forms, not a verified single building instance or surveyed dimensions.",
       "evidence": [
         {
-          "source_id": "F1908",
-          "locator": "JPEG layout item 14"
+          "source_id": "F0809",
+          "locator": "IMG_5188ab.jpg: completed G+1 exterior, verandah and external stair"
         },
         {
-          "source_id": "F1907",
-          "locator": "PDF layout item 14"
-        },
-        {
-          "source_id": "F1112",
-          "locator": "Restaurant exterior photograph"
-        }
-      ]
-    },
-    {
-      "id": "B07",
-      "name": "Spa / health-club block",
-      "scope": "Core",
-      "area": "Ethnic resort",
-      "status": "construction",
-      "statusLabel": "Under construction / 2024",
-      "statusNote": "The September 2024 brochure p.31 explicitly says the Health Centre is under construction. Equipment photos do not prove completion of this building.",
-      "statusCurrentVerified": false,
-      "location": {
-        "crop": "assets/crops/B07.png",
-        "overview": "assets/crops/B07-overview.png",
-        "box": [
-          581,
-          362,
-          673,
-          422
-        ],
-        "cropBox": [
-          544,
-          337,
-          709,
-          447
-        ],
-        "item": "10",
-        "note": "Health-block zone along the southern resort boundary.",
-        "certainty": "Named on concept plan"
-      },
-      "refs": [
-        {
-          "asset": "F1046",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F1047",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F1048",
-          "relation": "candidate",
-          "note": "Entry / equipment context; exact building match is unverified."
-        },
-        {
-          "asset": "F1900",
-          "relation": "matched",
-          "note": "Dedicated architectural drawing set."
-        },
-        {
-          "asset": "F1901",
-          "relation": "matched",
-          "note": "Dedicated architectural drawing set."
-        },
-        {
-          "asset": "F1902",
-          "relation": "matched",
-          "note": "Dedicated architectural drawing set."
-        },
-        {
-          "asset": "F1907",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1908",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1909",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1904",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1906",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1903-p31",
-          "relation": "document",
-          "note": "Historical brochure evidence; not a current site survey."
-        }
-      ],
-      "cover": "F1901",
-      "countingRule": "One complex-level family, with a modular collection of wings, roofs and verandas.",
-      "limitation": "The 2024 brochure says under construction. Plan/section room uses disagree; do not certify completion or final room functions.",
-      "evidence": [
-        {
-          "source_id": "F1901",
-          "locator": "CAD03 / Health Club / plan 5.dwg"
-        },
-        {
-          "source_id": "F1900",
-          "locator": "CAD02 / Elevation.dwg"
-        },
-        {
-          "source_id": "F1902",
-          "locator": "CAD04 / Section.dwg"
-        },
-        {
-          "source_id": "F1908",
-          "locator": "JPEG layout item 10"
+          "source_id": "F1503",
+          "locator": "IMG_7259a.jpg: completed G+1 cottage gable/side view"
         },
         {
           "source_id": "F1903",
-          "locator": "Brochure PDF page 31: under construction"
-        }
-      ]
-    },
-    {
-      "id": "B08",
-      "name": "Pool changing rooms",
-      "scope": "Core",
-      "area": "Ethnic resort",
-      "status": "unverified",
-      "statusLabel": "Status unverified",
-      "statusNote": "Named only in the JPEG layout (item 9). The attached PDF-style plan does not separately label it; the crop shows pool-side context, not a confirmed footprint.",
-      "statusCurrentVerified": false,
-      "location": {
-        "crop": "assets/crops/B08.png",
-        "overview": "assets/crops/B08-overview.png",
-        "box": [
-          574,
-          191,
-          679,
-          278
-        ],
-        "cropBox": [
-          523,
-          166,
-          729,
-          303
-        ],
-        "item": "Pool context",
-        "note": "Pool-side context only. Changing-room footprint is not separately labelled in this attached plan.",
-        "certainty": "Context / provisional"
-      },
-      "refs": [
-        {
-          "asset": "F1343",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1344",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1345",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1346",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1347",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1348",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1349",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1350",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1351",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1352",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1353",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1354",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1355",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1356",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1357",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1358",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1359",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1360",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1361",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1362",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1363",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1364",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1365",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1366",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1367",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1368",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1369",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1370",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1371",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1372",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1373",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1374",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1375",
-          "relation": "context",
-          "note": "Pool-side context. Does not confirm the changing-room building identity."
-        },
-        {
-          "asset": "F1907",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1908",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1909",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1904",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        },
-        {
-          "asset": "F1906",
-          "relation": "site",
-          "note": "Shared site plan. Different revisions use different item numbers."
-        }
-      ],
-      "cover": "F1908",
-      "countingRule": "One pool-support building family, separate from public campus washrooms unless dimensions demonstrate an identical design.",
-      "limitation": "Explicitly labelled in the JPEG layout. Not separately named in the PDF legend; no dedicated standalone drawing set identified.",
-      "evidence": [
-        {
-          "source_id": "F1908",
-          "locator": "JPEG layout item 9: Changing Rooms"
-        },
-        {
-          "source_id": "F1904",
-          "locator": "CAD05 pool-side placement context"
+          "locator": "September 2024 brochure p.13: cottage operation/construction totals, not a breakdown by design subtype"
         }
       ]
     },
@@ -2331,6 +153,9 @@
       "id": "B09",
       "name": "Premium-unit cottage family",
       "scope": "Core",
+      "priority": "cottages",
+      "drawingMatch": null,
+      "drawingCandidates": [],
       "area": "Ethnic resort",
       "status": "unverified",
       "statusLabel": "Status unverified",
@@ -2353,7 +178,8 @@
         ],
         "item": "11 / zone",
         "note": "Shared cottage zone only. Premium-unit placements have not been matched to this plan.",
-        "certainty": "Context / provisional"
+        "certainty": "Context / provisional",
+        "showMarker": true
       },
       "refs": [
         {
@@ -3444,6 +1270,9 @@
       "id": "B10",
       "name": "Pool-view double-floor cottage family",
       "scope": "Core",
+      "priority": "cottages",
+      "drawingMatch": null,
+      "drawingCandidates": [],
       "area": "Ethnic resort",
       "status": "construction",
       "statusLabel": "Construction archive / provisional",
@@ -3466,7 +1295,8 @@
         ],
         "item": "11 / zone",
         "note": "Cottages around the pool: candidate zone only, not a verified Pool-view-unit placement.",
-        "certainty": "Context / provisional"
+        "certainty": "Context / provisional",
+        "showMarker": true
       },
       "refs": [
         {
@@ -4548,6 +2378,9 @@
       "id": "B11",
       "name": "Circular-unit cottage family",
       "scope": "Core",
+      "priority": "cottages",
+      "drawingMatch": null,
+      "drawingCandidates": [],
       "area": "Ethnic resort",
       "status": "construction",
       "statusLabel": "Construction archive / provisional",
@@ -4570,7 +2403,8 @@
         ],
         "item": "11 / candidate",
         "note": "Round plan symbols are visible here. Their link to the Circular-unit detailed drawing is provisional.",
-        "certainty": "Context / provisional"
+        "certainty": "Context / provisional",
+        "showMarker": true
       },
       "refs": [
         {
@@ -5640,9 +3474,2368 @@
       ]
     },
     {
+      "id": "B01",
+      "name": "Auditorium",
+      "scope": "Core",
+      "priority": "campus",
+      "drawingMatch": null,
+      "drawingCandidates": [],
+      "area": "Cultural centre",
+      "status": "existing",
+      "statusLabel": "Existing in archive",
+      "statusNote": "2024 brochure p.18 and auditorium photographs document the facility. Present-day condition has not been surveyed.",
+      "statusCurrentVerified": false,
+      "location": {
+        "crop": "assets/crops/B01.png",
+        "overview": "assets/crops/B01-overview.png",
+        "box": [
+          297,
+          282,
+          394,
+          347
+        ],
+        "cropBox": [
+          259,
+          257,
+          431,
+          372
+        ],
+        "item": "3",
+        "note": "Auditorium footprint on the supplied concept plan.",
+        "certainty": "Named on concept plan",
+        "showMarker": true
+      },
+      "refs": [
+        {
+          "asset": "F0281",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0283",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0284",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0285",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0286",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0287",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0288",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0289",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0290",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0291",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0292",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0293",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0294",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0295",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0298",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0299",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0301",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0302",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0303",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0304",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0305",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0312",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0313",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0314",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0315",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0316",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0321",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0322",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0323",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0329",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0333",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0334",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0335",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0336",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0337",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0338",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0339",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0340",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0341",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0344",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0345",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0346",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0347",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0348",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0351",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0352",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0353",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0354",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0355",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0368",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0369",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0370",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0371",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0372",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0375",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0376",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0377",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0380",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0381",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0396",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0397",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0398",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0399",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0400",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0401",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0402",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0406",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0407",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1855",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1857",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1907",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1908",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1909",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1904",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1906",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1903-p18",
+          "relation": "document",
+          "note": "Historical brochure evidence; not a current site survey."
+        }
+      ],
+      "cover": "F0312",
+      "countingRule": "One auditorium family, including foyer/stage/supporting volumes. Repeated roof trusses and seating are components, not additional building types.",
+      "limitation": "Photograph establishes the auditorium's physical form at an archive date; present-day condition is not verified.",
+      "evidence": [
+        {
+          "source_id": "F1908",
+          "locator": "JPEG layout item 1"
+        },
+        {
+          "source_id": "F1907",
+          "locator": "PDF layout item 3"
+        },
+        {
+          "source_id": "F0312",
+          "locator": "Auditorium interior photograph"
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "name": "Kitchen and dining pavilion",
+      "scope": "Core",
+      "priority": "campus",
+      "drawingMatch": null,
+      "drawingCandidates": [],
+      "area": "Cultural centre",
+      "status": "existing",
+      "statusLabel": "Existing in archive",
+      "statusNote": "2024 brochure p.18 and dining-pavilion photographs document the facility. Kitchen dimensions and present-day condition remain unverified.",
+      "statusCurrentVerified": false,
+      "location": {
+        "crop": "assets/crops/B02.png",
+        "overview": "assets/crops/B02-overview.png",
+        "box": [
+          229,
+          234,
+          303,
+          297
+        ],
+        "cropBox": [
+          181,
+          209,
+          350,
+          322
+        ],
+        "item": "2",
+        "note": "Kitchen and dining pavilion complex on the supplied concept plan.",
+        "certainty": "Named on concept plan",
+        "showMarker": true
+      },
+      "refs": [
+        {
+          "asset": "F0317",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0318",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0319",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0320",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0326",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0327",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0328",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0331",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0332",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0385",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0386",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0387",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0388",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0389",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0390",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0395",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1907",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1908",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1909",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1904",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1906",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1903-p18",
+          "relation": "document",
+          "note": "Historical brochure evidence; not a current site survey."
+        }
+      ],
+      "cover": "F0395",
+      "countingRule": "One complex-level family, with repeated open dining bays and a kitchen/service portion. The kitchen may require a separate mesh within the same family.",
+      "limitation": "Historical photographs support open-sided thatched dining pavilions. Exact bay variants and kitchen dimensions still need confirmation.",
+      "evidence": [
+        {
+          "source_id": "F1907",
+          "locator": "PDF layout item 2: Kitchen & Dining Pavilion"
+        },
+        {
+          "source_id": "F1908",
+          "locator": "JPEG layout item 3"
+        },
+        {
+          "source_id": "F0395",
+          "locator": "Dining-pavilion photograph"
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "name": "Temple and shrine complex",
+      "scope": "Core",
+      "priority": "campus",
+      "drawingMatch": null,
+      "drawingCandidates": [],
+      "area": "Cultural centre",
+      "status": "existing",
+      "statusLabel": "Existing in archive",
+      "statusNote": "2024 brochure p.18 and temple photographs document the shrine complex. Individual shrine variants remain to be reconciled.",
+      "statusCurrentVerified": false,
+      "location": {
+        "crop": "assets/crops/B03.png",
+        "overview": "assets/crops/B03-overview.png",
+        "box": [
+          231,
+          402,
+          282,
+          499
+        ],
+        "cropBox": [
+          146,
+          377,
+          366,
+          524
+        ],
+        "item": "6",
+        "note": "Temple row along the southwest boundary.",
+        "certainty": "Named on concept plan",
+        "showMarker": true
+      },
+      "refs": [
+        {
+          "asset": "F1377",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1378",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1379",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1380",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1381",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1382",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1383",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1384",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1385",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1386",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1387",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1388",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1389",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1390",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1391",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1392",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1393",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1394",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1395",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1396",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1397",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1398",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1399",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1400",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1401",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1402",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1403",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1404",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1405",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1406",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1407",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1408",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1409",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1410",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1411",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1412",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1413",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1414",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1415",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1416",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1417",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1418",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1419",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1420",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1421",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1422",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1423",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1424",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1425",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1426",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1427",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1428",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1429",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1430",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1431",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1432",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1433",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1434",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1435",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1436",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1437",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1438",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1439",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1440",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1441",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1442",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1443",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1444",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1445",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1446",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1447",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1907",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1908",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1909",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1904",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1906",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1903-p18",
+          "relation": "document",
+          "note": "Historical brochure evidence; not a current site survey."
+        }
+      ],
+      "cover": "F1442",
+      "countingRule": "One repeatable shrine/pavilion kit for planning. Shrine decoration and size variants may increase the final mesh count.",
+      "limitation": "The archive shows multiple roofed shrines. Their repetition is not a count of different building families.",
+      "evidence": [
+        {
+          "source_id": "F1908",
+          "locator": "JPEG layout item 4"
+        },
+        {
+          "source_id": "F1907",
+          "locator": "PDF layout item 6"
+        },
+        {
+          "source_id": "F1442",
+          "locator": "Temple-row photograph"
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "name": "Public washrooms",
+      "scope": "Core",
+      "priority": "campus",
+      "drawingMatch": null,
+      "drawingCandidates": [],
+      "area": "Cultural centre",
+      "status": "existing",
+      "statusLabel": "Existing in archive",
+      "statusNote": "F0391-F0394 show campus sanitary-building exteriors and washroom interiors. Exact correspondence of each photographed block to the plan remains to be checked.",
+      "statusCurrentVerified": false,
+      "location": {
+        "crop": "assets/crops/B04.png",
+        "overview": "assets/crops/B04-overview.png",
+        "box": [
+          315,
+          202,
+          349,
+          245
+        ],
+        "cropBox": [
+          257,
+          173,
+          407,
+          273
+        ],
+        "item": "4",
+        "note": "Washroom zone; repeated blocks may require separate variants.",
+        "certainty": "Named on concept plan",
+        "showMarker": true
+      },
+      "refs": [
+        {
+          "asset": "F0391",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0392",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0393",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0394",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1907",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1908",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1909",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1904",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1906",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        }
+      ],
+      "cover": "F0393",
+      "countingRule": "One sanitary-building family initially; verify whether the two plan blocks share the same design before reusing a mesh.",
+      "limitation": "Named in both campus layout versions. No dedicated washroom drawing set was identified among the 11 architectural DWGs.",
+      "evidence": [
+        {
+          "source_id": "F1908",
+          "locator": "JPEG layout item 2"
+        },
+        {
+          "source_id": "F1907",
+          "locator": "PDF layout item 4"
+        },
+        {
+          "source_id": "F1904",
+          "locator": "CAD05 placement context"
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "name": "Ticket kiosk / entry reception",
+      "scope": "Core",
+      "priority": "campus",
+      "drawingMatch": null,
+      "drawingCandidates": [],
+      "area": "Cultural centre",
+      "status": "unverified",
+      "statusLabel": "Status unverified",
+      "statusNote": "The plan names a ticket kiosk. Entry and booth photographs are candidates, not a proven match to that specific kiosk.",
+      "statusCurrentVerified": false,
+      "location": {
+        "crop": "assets/crops/B05.png",
+        "overview": "assets/crops/B05-overview.png",
+        "box": [
+          418,
+          389,
+          460,
+          426
+        ],
+        "cropBox": [
+          364,
+          357,
+          514,
+          457
+        ],
+        "item": "8",
+        "note": "Ticket-kiosk location in the supplied concept plan; photograph match pending.",
+        "certainty": "Named on concept plan",
+        "showMarker": true
+      },
+      "refs": [
+        {
+          "asset": "F0297",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0324",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0342",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0343",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0349",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0350",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0356",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0357",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0358",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0359",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0360",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0361",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0362",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0363",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0364",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0365",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0366",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0367",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0373",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0374",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0384",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0403",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0404",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F0405",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F1856",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F1907",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1908",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1909",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1904",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1906",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        }
+      ],
+      "cover": "F0404",
+      "countingRule": "One ticket-kiosk family. Do not automatically merge separate gatehouses or security booths into it.",
+      "limitation": "Plan identity is supported. Exact elevation and present-day operation are not verified.",
+      "evidence": [
+        {
+          "source_id": "F1908",
+          "locator": "JPEG layout item 6"
+        },
+        {
+          "source_id": "F1907",
+          "locator": "PDF layout item 8"
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "name": "Adisil restaurant and conference complex",
+      "scope": "Core",
+      "priority": "campus",
+      "drawingMatch": null,
+      "drawingCandidates": [],
+      "area": "Ethnic resort",
+      "status": "existing",
+      "statusLabel": "Existing in archive",
+      "statusNote": "Restaurant and banquet-space photographs document completed spaces. The campus plan identifies the restaurant/conference complex.",
+      "statusCurrentVerified": false,
+      "location": {
+        "crop": "assets/crops/B06.png",
+        "overview": "assets/crops/B06-overview.png",
+        "box": [
+          668,
+          163,
+          727,
+          262
+        ],
+        "cropBox": [
+          553,
+          138,
+          777,
+          287
+        ],
+        "item": "14",
+        "note": "Restaurant and conference complex at the eastern side of the resort.",
+        "certainty": "Named on concept plan",
+        "showMarker": true
+      },
+      "refs": [
+        {
+          "asset": "F0099",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0100",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0101",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0106",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0107",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0109",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0110",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0111",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0112",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0113",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0114",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0115",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0116",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0117",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0118",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0119",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0120",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0121",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0122",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0124",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0126",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0127",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0128",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0131",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0136",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0138",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0139",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0140",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0141",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0142",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0145",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0157",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F0158",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1050",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1060",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1062",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1063",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1064",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1065",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1074",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1075",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1077",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1078",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1079",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1081",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1082",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1083",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1084",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1085",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1086",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1087",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1088",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1101",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1102",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1103",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1104",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1107",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1108",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1109",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1110",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1111",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1112",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1113",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1114",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1115",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1116",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1117",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1118",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1119",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1120",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1121",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1122",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1123",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1124",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1125",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1126",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1127",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1128",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1135",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1136",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1137",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1138",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1139",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1140",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1141",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1142",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1143",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1144",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1145",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1146",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1147",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1148",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1149",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1150",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1151",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1152",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1153",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1154",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1160",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1161",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1162",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1163",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1164",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1165",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1167",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1171",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1172",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1173",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1174",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1175",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1860",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1861",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1862",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1863",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1864",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1867",
+          "relation": "matched",
+          "note": "Architectural reference identified in the themed archive and contact-sheet review."
+        },
+        {
+          "asset": "F1907",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1908",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1909",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1904",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1906",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1903-p14",
+          "relation": "document",
+          "note": "Historical brochure evidence; not a current site survey."
+        },
+        {
+          "asset": "F1903-p15",
+          "relation": "document",
+          "note": "Historical brochure evidence; not a current site survey."
+        },
+        {
+          "asset": "F1903-p16",
+          "relation": "document",
+          "note": "Historical brochure evidence; not a current site survey."
+        }
+      ],
+      "cover": "F1112",
+      "countingRule": "One architectural complex with multiple hall, terrace and service volumes; not one new family for each whitebox wing.",
+      "limitation": "Restaurant exterior is visible in photos. The association with conference halls comes from the plan, not proof of present-day room use.",
+      "evidence": [
+        {
+          "source_id": "F1908",
+          "locator": "JPEG layout item 14"
+        },
+        {
+          "source_id": "F1907",
+          "locator": "PDF layout item 14"
+        },
+        {
+          "source_id": "F1112",
+          "locator": "Restaurant exterior photograph"
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "name": "Spa / health-club block",
+      "scope": "Core",
+      "priority": "campus",
+      "drawingMatch": null,
+      "drawingCandidates": [],
+      "area": "Ethnic resort",
+      "status": "construction",
+      "statusLabel": "Under construction / 2024",
+      "statusNote": "The September 2024 brochure p.31 explicitly says the Health Centre is under construction. Equipment photos do not prove completion of this building.",
+      "statusCurrentVerified": false,
+      "location": {
+        "crop": "assets/crops/B07.png",
+        "overview": "assets/crops/B07-overview.png",
+        "box": [
+          581,
+          362,
+          673,
+          422
+        ],
+        "cropBox": [
+          544,
+          337,
+          709,
+          447
+        ],
+        "item": "10",
+        "note": "Health-block zone along the southern resort boundary.",
+        "certainty": "Named on concept plan",
+        "showMarker": true
+      },
+      "refs": [
+        {
+          "asset": "F1046",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F1047",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F1048",
+          "relation": "candidate",
+          "note": "Entry / equipment context; exact building match is unverified."
+        },
+        {
+          "asset": "F1900",
+          "relation": "matched",
+          "note": "Dedicated architectural drawing set."
+        },
+        {
+          "asset": "F1901",
+          "relation": "matched",
+          "note": "Dedicated architectural drawing set."
+        },
+        {
+          "asset": "F1902",
+          "relation": "matched",
+          "note": "Dedicated architectural drawing set."
+        },
+        {
+          "asset": "F1907",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1908",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1909",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1904",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1906",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1903-p31",
+          "relation": "document",
+          "note": "Historical brochure evidence; not a current site survey."
+        }
+      ],
+      "cover": "F1901",
+      "countingRule": "One complex-level family, with a modular collection of wings, roofs and verandas.",
+      "limitation": "The 2024 brochure says under construction. Plan/section room uses disagree; do not certify completion or final room functions.",
+      "evidence": [
+        {
+          "source_id": "F1901",
+          "locator": "CAD03 / Health Club / plan 5.dwg"
+        },
+        {
+          "source_id": "F1900",
+          "locator": "CAD02 / Elevation.dwg"
+        },
+        {
+          "source_id": "F1902",
+          "locator": "CAD04 / Section.dwg"
+        },
+        {
+          "source_id": "F1908",
+          "locator": "JPEG layout item 10"
+        },
+        {
+          "source_id": "F1903",
+          "locator": "Brochure PDF page 31: under construction"
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "name": "Pool changing rooms",
+      "scope": "Core",
+      "priority": "campus",
+      "drawingMatch": null,
+      "drawingCandidates": [],
+      "area": "Ethnic resort",
+      "status": "unverified",
+      "statusLabel": "Status unverified",
+      "statusNote": "Named only in the JPEG layout (item 9). The attached PDF-style plan does not separately label it; the crop shows pool-side context, not a confirmed footprint.",
+      "statusCurrentVerified": false,
+      "location": {
+        "crop": "assets/crops/B08.png",
+        "overview": "assets/crops/B08-overview.png",
+        "box": [
+          574,
+          191,
+          679,
+          278
+        ],
+        "cropBox": [
+          523,
+          166,
+          729,
+          303
+        ],
+        "item": "Pool context",
+        "note": "Pool-side context only. Changing-room footprint is not separately labelled in this attached plan.",
+        "certainty": "Context / provisional",
+        "showMarker": true
+      },
+      "refs": [
+        {
+          "asset": "F1343",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1344",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1345",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1346",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1347",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1348",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1349",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1350",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1351",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1352",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1353",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1354",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1355",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1356",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1357",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1358",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1359",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1360",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1361",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1362",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1363",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1364",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1365",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1366",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1367",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1368",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1369",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1370",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1371",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1372",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1373",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1374",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1375",
+          "relation": "context",
+          "note": "Pool-side context. Does not confirm the changing-room building identity."
+        },
+        {
+          "asset": "F1907",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1908",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1909",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1904",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        },
+        {
+          "asset": "F1906",
+          "relation": "site",
+          "note": "Shared site plan. Different revisions use different item numbers."
+        }
+      ],
+      "cover": "F1908",
+      "countingRule": "One pool-support building family, separate from public campus washrooms unless dimensions demonstrate an identical design.",
+      "limitation": "Explicitly labelled in the JPEG layout. Not separately named in the PDF legend; no dedicated standalone drawing set identified.",
+      "evidence": [
+        {
+          "source_id": "F1908",
+          "locator": "JPEG layout item 9: Changing Rooms"
+        },
+        {
+          "source_id": "F1904",
+          "locator": "CAD05 pool-side placement context"
+        }
+      ]
+    },
+    {
       "id": "P01",
       "name": "Craft-production sheds",
       "scope": "Proposed",
+      "priority": "future",
+      "drawingMatch": null,
+      "drawingCandidates": [],
       "area": "Cultural centre",
       "status": "future",
       "statusLabel": "Future / proposed",
@@ -5665,7 +5858,8 @@
         ],
         "item": "1",
         "note": "Proposed craft-production sheds near the western entrance.",
-        "certainty": "Named on concept plan"
+        "certainty": "Named on concept plan",
+        "showMarker": true
       },
       "refs": [
         {
@@ -5708,6 +5902,9 @@
       "id": "P02",
       "name": "Crafts bazaar and museum",
       "scope": "Proposed",
+      "priority": "future",
+      "drawingMatch": null,
+      "drawingCandidates": [],
       "area": "Cultural centre",
       "status": "future",
       "statusLabel": "Future / proposed",
@@ -5730,7 +5927,8 @@
         ],
         "item": "5",
         "note": "Proposed crafts bazaar/museum near the washrooms.",
-        "certainty": "Named on concept plan"
+        "certainty": "Named on concept plan",
+        "showMarker": true
       },
       "refs": [
         {
@@ -19944,11 +20142,14 @@
   "coverage": {
     "archiveFiles": 2023,
     "publishedSourceFiles": 554,
+    "documentedFamilies": 13,
+    "existingPhotoVariants": 1,
+    "referenceEntries": 14,
     "webPhotos": 541,
     "originalDWGs": 11,
     "originalPDFs": 2,
     "statusCounts": {
-      "existing": 5,
+      "existing": 6,
       "unverified": 3,
       "construction": 3,
       "future": 2
@@ -19957,6 +20158,7 @@
       "All 11 DWGs and both PDFs are included. Building photos are published as medium-quality 1400-pixel web derivatives; originals remain in the local archive.",
       "Building and related-detail photographs were expanded from themed folders and visual contact-sheet review. Unrelated food, event and promotional material is not published.",
       "Shared cottage photographs are deliberately associated with all three cottage families without asserting a subtype match. This creates shared references, not additional source files.",
+      "Cottages are modelling priority 1. E01 makes the existing G+1 photographic design accessible separately, without adding a verified family or asserting a DWG match. Future proposals are secondary and listed last.",
       "The Pool view Units construction folder also contains circular units. Folder membership alone does not prove a Pool-view-unit match.",
       "The Aleenta / Phuket inspiration folder is not evidence of Kadambavanam and is excluded from the public building galleries.",
       "The source screenshot is only 777 x 553 pixels. Location crops do not add detail or establish survey-accurate footprints.",

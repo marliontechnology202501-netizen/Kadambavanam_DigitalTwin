@@ -7,7 +7,9 @@ Planned GitHub Pages address (available only after publication and Pages setup):
 ## Contents
 
 - 11 main documented modelling families and 2 additional proposed families.
-- A View page for every family with photo, drawing, site-plan and document galleries.
+- Cottages are priority 1, listed first and available through a dedicated cottage filter; future proposals are secondary and listed last.
+- An additional Existing Cottage - G+1 photographic entry with focused exterior views. Its named DWG and exact site footprint remain unverified, so it is not counted as a 14th architectural family.
+- A View page for every reference entry with photo, drawing, site-plan and document galleries.
 - Cropped and full-context location images derived from the user-supplied concept plan.
 - Existing, under-construction, proposed and unverified archive-status categories.
 - Original DWG/PDF downloads, medium-quality web photographs and source SHA256 hashes.
