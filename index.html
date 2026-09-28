@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Kadambavanam digital twin building reference library: drawings, photographs, location crops and dated construction evidence.">
+  <title>Kadambavanam | Building Reference Library</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>@media(max-width:760px){.map-marker{display:none}}</style>
+  <script defer src="vendor/lucide.min.js"></script>
+  <script defer src="data/library.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a href="#buildings" class="brand"><i data-lucide="landmark"></i><span>Kadambavanam<small>Digital Twin / Reference Library</small></span></a>
+    <nav aria-label="Main"><a href="#buildings" data-nav="buildings">Buildings</a><a href="#map" data-nav="map">Site Plan</a><a href="#sources" data-nav="sources">Sources</a></nav>
+    <a class="icon-button" href="https://github.com/marliontechnology202501-netizen/Kadambavanam_DigitalTwin" target="_blank" rel="noopener" title="GitHub repository" aria-label="GitHub repository"><i data-lucide="github"></i></a>
+  </header>
+  <div id="app"></div>
+  <dialog id="viewer" aria-labelledby="viewer-title">
+    <div class="viewer-head"><h2 id="viewer-title"></h2><button class="icon-button" data-action="close-viewer" title="Close image" aria-label="Close image"><i data-lucide="x"></i></button></div>
+    <div class="viewer-stage"><button class="icon-button prev" data-action="previous-image" title="Previous image" aria-label="Previous image"><i data-lucide="chevron-left"></i></button><img id="viewer-image" alt=""><button class="icon-button next" data-action="next-image" title="Next image" aria-label="Next image"><i data-lucide="chevron-right"></i></button></div>
+    <div id="viewer-meta"></div>
+  </dialog>
+  <noscript>This reference library requires JavaScript. The complete register is also available in data/library.json.</noscript>
+</body>
+</html>

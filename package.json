@@ -1,0 +1,7 @@
+{
+  "name": "kadambavanam-reference-library",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"test": "node --test tests/library.test.cjs"},
+  "devDependencies": {"jsdom": "26.1.0", "lucide": "0.468.0"}
+}
